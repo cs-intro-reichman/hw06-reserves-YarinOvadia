@@ -23,19 +23,19 @@ public class Runigram {
 		System.out.println();
 		print(imageOut);
 
-		imageOut = flippedVertically(tinypic);
-		System.out.println();
-		print(imageOut);
 		
-		imageOut =grayScaled(tinypic);
-		System.out.println();
-		print(imageOut);
+	//	imageOut = flippedVertically(tinypic);
+	//	System.out.println();
+	//	print(imageOut);
+		
+	//	imageOut =grayScaled(tinypic);
+	//	System.out.println();
+	//	print(imageOut);
 
-		Color messi = new Color(20, 80,40);
-        Color yarr = new Color(100, 100,100);
-		System.out.println();
-		print(blend(yarr, messi, 0.25));
-
+	//	Color messi = new Color(20, 80,40);
+    //    Color yarr = new Color(100, 100,100);
+	//System.out.println();
+	//	print(blend(yarr, messi, 0.25));
 
 		
 		//// Write here whatever code you need in order to test your work.
