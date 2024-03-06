@@ -19,9 +19,9 @@ public class Runigram {
 
 		// Tests the horizontal flipping of an image:
 		
-		imageOut = flippedHorizontally(tinypic);
-		System.out.println();
-		print(imageOut);
+		//imageOut = flippedHorizontally(tinypic);
+		//System.out.println();
+		//print(imageOut);
 
 		
 	//	imageOut = flippedVertically(tinypic);
